@@ -46,7 +46,7 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=UvaishKhan7&theme=nightowl&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=UvaishKhan7&theme=shades-of-purple&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
