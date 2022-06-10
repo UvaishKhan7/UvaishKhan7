@@ -36,7 +36,7 @@
   </div>
   <div align=right>
     <a href="https://github.com/UvaishKhan7/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvaishKhan7&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=fff&text_color=ffffff&icon_color=61dafb&bg_color=30&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvaishKhan7&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=fff&text_color=ffffff&icon_color=61dafb&bg_color=30,e96443,904e95&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
