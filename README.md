@@ -1,7 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UvaishKhan7.UvaishKhan7">
-<a href="https://github.com/UvaishKhan7?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/UvaishKhan7?color=green&logo=github">
-  </a>
+<img align="left" src="https://img.shields.io/github/followers/UvaishKhan7?color=green&logo=github">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
