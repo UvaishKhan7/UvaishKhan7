@@ -43,6 +43,13 @@
 
 <hr>
 
+<br>
+<h3 align="center">⚡ Codewars Kyu Stats ⚡</h3>
+<br>
+<div align=center>
+<img align="center" src="https://www.codewars.com/users/UvaishKhan7/badges/large" />
+</div>
+
 <!--
 **UvaishKhan7/UvaishKhan7** is a ✨ _special_ ✨ repository because it's `README.md` (this file) appears on your GitHub profile.
 
