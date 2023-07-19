@@ -36,7 +36,7 @@
 
   <div align=right>
 
-    <a href="https://github.com/UvaishKhan7/github-readme-stats">
+  <a href="https://github.com/UvaishKhan7/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvaishKhan7&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=fff&text_color=ffffff&icon_color=61dafb&bg_color=30,e96443,904e95&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
 
@@ -55,21 +55,3 @@
 <div align=center>
 <img align="center" src="https://www.codewars.com/users/UvaishKhan7/badges/large" />
 </div>
-
-<!--
-**UvaishKhan7/UvaishKhan7** is a ✨ _special_ ✨ repository because it's `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
--->
