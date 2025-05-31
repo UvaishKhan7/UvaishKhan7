@@ -14,14 +14,12 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Uvaish Khan, Mechanical Engineer from India.
+  Hi there! I'm Uvaish Khan.
   <br>
   <br>
-  🔬 I'm currently learning Coding for a career change.
+  🔬 I'm a reactjs frontend webdeveloper & also learning MERN Stack, Nextjs, react-native, electronjs etc..
   <br>
   💻 I love writing code and learn anythings about it.
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/UvaishKhan7/UvaishKhan7/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: uvaish8248@gmail.com">uvaish8248@gmail.com</a>
 </p>
@@ -44,7 +42,6 @@
 
   <br>
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=UvaishKhan7&theme=dracula&bg_color=30,e96443,904e95&hide_border=true" width="100%"/>
 </p>
 
 <hr>
