@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/UvaishKhan7/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="38" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/uvaish.khan/" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="38" alt="Instagram"/></a>
   <a href="mailto:uvaish8248@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="38" alt="Gmail"/></a>
-  <a href="https://uvaishkhan7.vercel.app" title="Portfolio"><img src="https://skillicons.dev/icons?i=vercel" width="38" alt="Portfolio"/></a>
+  <a href="https://uvaishk.vercel.app" title="Portfolio"><img src="https://skillicons.dev/icons?i=vercel" width="38" alt="Portfolio"/></a>
 </p>
 
 ---
