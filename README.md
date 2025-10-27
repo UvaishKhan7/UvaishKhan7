@@ -25,7 +25,7 @@
 ### 🧠 About Me
 
 Hey there, I’m **Uvaish Khan** — a **Full-Stack JavaScript Developer** who builds modern, performant, and visually stunning web apps.  
-My current toolkit includes **Next.js 14**, **MERN Stack**, **Supabase**, **shadcn/ui**, and **TailwindCSS** — with a soft spot for beautiful motion and minimal design systems.
+My current toolkit includes **Next.js**, **MERN Stack**, **Supabase**, **shadcn/ui**, and **TailwindCSS** — with a soft spot for beautiful motion and minimal design systems.
 
 - 🧩 I design and code **production-grade apps** with delightful UIs.  
 - ⚙️ Experienced in building **secure backends** and **REST APIs** with Node + MongoDB.  
